@@ -1,4 +1,0 @@
-train: E:\\YOLOv5_official\\yolov5-master\\data\\my_train_data.txt
-val: E:\\YOLOv5_official\\yolov5-master\\data\\my_val_data.txt
-nc: 5
-names: ["blowhole", "break", "crack", "fray", "uneven"]

@@ -1,4 +1,0 @@
-classes=5
-train=E:\数据集\yolov3_spp\data\my_train_data.txt
-valid=E:\数据集\yolov3_spp\data\my_val_data.txt
-names=E:\数据集\yolov3_spp\data\my_data_label.names
